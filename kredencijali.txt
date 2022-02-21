@@ -1,0 +1,9 @@
+ADMIN
+username: Zika 
+password:123456
+
+_______
+
+KORISNIK
+username: mikica		
+password:123456

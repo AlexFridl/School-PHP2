@@ -1,0 +1,51 @@
+.admin {
+    border:1px solid #000;
+    padding: 10px;
+}
+.admin1 {
+    border:1px solid #000;
+}
+.naslov{
+    font-size: large;
+    color:darkblue;
+}
+.naslov_news{
+    font-size: large;
+    color:darkblue;
+    padding-left: 150px;
+}
+.naslov_news1{
+    font-size: large;
+    color:darkblue;
+    padding-left: 500px;
+}
+.naslov_news_activity{
+    font-size: large;
+    color:darkblue;
+    padding-left: 480px;
+}
+.naslov_news_activity1{
+    font-size: large;
+    color:darkblue;
+    padding-left: 500px;
+    padding-bottom: 10px;
+}
+.dodaj{
+    font-size:15px;
+    padding-left:35px;
+    text-decoration: underline;
+}
+.move_right1{
+    margin-left: 480px;
+}
+.move_right{
+    margin-left: 200px;
+}
+
+.table{
+    padding: 50px;
+}
+.admin_search{
+    margin-top: 50px;
+    padding-left: 150px;
+}
